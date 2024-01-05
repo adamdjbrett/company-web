@@ -1,7 +1,8 @@
 repo_name: adamdjbrett/company-web
-report_id: 9c00ca3623c9c5617ef543faaee7f0ef
+report_id: 3646ad194f70a04b9fe4f1060598746a
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:40:39+00:00'
+timestamp: '2024-01-05T08:42:29+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/adamdjbrett/company-web
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/adamdjbrett/company-web
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/adamdjbrett/company-web
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/company-web
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -53,6 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/adamdjbrett/company-web/blob/master/Gemfile
   detection_source: Gemfile
   last_updated_by: Jun Lu
   last_updated_on: 2018-01-07 18:15:11.000000000 Z
@@ -62,6 +68,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/adamdjbrett/company-web/blob/master/_includes/footer.html
   detection_source: _includes/footer.html
   last_updated_by: Jun Lu
   last_updated_on: 2018-01-07 18:15:11.000000000 Z
